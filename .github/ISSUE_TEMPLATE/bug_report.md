@@ -25,7 +25,7 @@ Steps to reproduce the behavior:
 A clear and concise description of what you expected to happen.
 
 **Screen output/Screenshots**
-If applicable, add copy-paste of the screen output or screenshot that shows the issue. Please ensure the output is in **English** and not in Chinese, Russian, German, etc.
+If applicable, add copy-paste of the screen output or screenshot that shows the issue. Please ensure the output is in **English** and not in Chinese, Russian, German, etc..
 
 **Additional context**
 Add any other context about the problem here.
