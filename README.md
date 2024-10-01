@@ -77,6 +77,7 @@ LibAFL is written and maintained by
  * [Dongjia Zhang](https://github.com/tokatoka) <toka@aflplus.plus>
  * [Addison Crump](https://github.com/addisoncrump) <me@addisoncrump.info>
  * [Romain Malmain](https://github.com/rmalmain) <rmalmain@pm.me>
+ * [Aantrreksh Singh](https://github.com/aantrreksh) <aantrrekshsingh@gmail.com>
 
 Please check out [CONTRIBUTING.md](CONTRIBUTING.md) for the contributing guideline.
 
